@@ -1,7 +1,8 @@
 # 🧠 DSA Toolkit in C
 
-A modular implementation of core Data Structures in C using pointers and dynamic memory allocation.
+A modular and low-level implementation of core data structures in C, built from scratch using pointers, dynamic memory allocation, and recursion.
 
+This project demonstrates a strong understanding of fundamental computer science concepts and system-level programming.
 ---
 
 ## 🚀 Features
